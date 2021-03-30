@@ -4,4 +4,5 @@ public class San {
     private int j;
     private int dxddddd33;
     private int da;
+    private int ss;
 }
